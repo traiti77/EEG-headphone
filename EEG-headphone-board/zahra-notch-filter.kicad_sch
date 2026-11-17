@@ -1531,7 +1531,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 97.79 44.45 0)
+		(at 237.49 156.21 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1541,7 +1541,7 @@
 		(dnp no)
 		(uuid "2c50a5fe-4237-488d-8cbe-ca9d93635589")
 		(property "Reference" "U1"
-			(at 101.092 36.83 0)
+			(at 240.792 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1552,7 +1552,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 99.822 39.116 0)
+			(at 239.522 150.876 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1563,7 +1563,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 97.79 44.45 0)
+			(at 237.49 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1574,7 +1574,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
-			(at 97.79 44.45 0)
+			(at 237.49 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1585,7 +1585,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 97.79 44.45 0)
+			(at 237.49 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2110,7 +2110,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 97.79 44.45 0)
+		(at 237.49 156.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2120,7 +2120,7 @@
 		(dnp no)
 		(uuid "ba796f1a-6542-4fd8-8851-18c5be79d6fc")
 		(property "Reference" "U1"
-			(at 89.408 32.766 0)
+			(at 229.108 144.526 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2130,7 +2130,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 89.662 35.306 0)
+			(at 229.362 147.066 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2140,7 +2140,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 97.79 44.45 0)
+			(at 237.49 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2151,7 +2151,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
-			(at 97.79 44.45 0)
+			(at 237.49 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2162,7 +2162,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 97.79 44.45 0)
+			(at 237.49 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2173,28 +2173,28 @@
 			)
 		)
 		(pin "1"
-			(uuid "59a991de-8fc8-4dec-9af1-0c9eca372164")
+			(uuid "59a991de-8fc8-4dec-9af1-0c9eca372165")
 		)
 		(pin "5"
-			(uuid "8137545a-a99b-4947-8d00-847a20c62593")
+			(uuid "8137545a-a99b-4947-8d00-847a20c62594")
 		)
 		(pin "6"
-			(uuid "7f513d87-e2a9-4ed7-9d88-3a68e5d828af")
+			(uuid "7f513d87-e2a9-4ed7-9d88-3a68e5d828b0")
 		)
 		(pin "2"
-			(uuid "27bbc392-9298-4504-9ab9-c653b39d99ef")
+			(uuid "27bbc392-9298-4504-9ab9-c653b39d99f0")
 		)
 		(pin "8"
-			(uuid "72670bb9-c1e8-4ecb-9a26-5346f35bb225")
+			(uuid "72670bb9-c1e8-4ecb-9a26-5346f35bb226")
 		)
 		(pin "7"
-			(uuid "171acc72-20f1-48a9-9fb5-3b2ea349df2b")
+			(uuid "171acc72-20f1-48a9-9fb5-3b2ea349df2c")
 		)
 		(pin "4"
-			(uuid "125ac6b8-3992-443c-955e-652096bf9ade")
+			(uuid "125ac6b8-3992-443c-955e-652096bf9adf")
 		)
 		(pin "3"
-			(uuid "75a8ccb6-6e3f-422f-b1e6-a8967fe4751f")
+			(uuid "75a8ccb6-6e3f-422f-b1e6-a8967fe47520")
 		)
 		(instances
 			(project "zahra-notch-filter"
@@ -2451,7 +2451,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 111.76 100.33 0)
+		(at 248.92 31.75 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2462,7 +2462,7 @@
 		(fields_autoplaced yes)
 		(uuid "f9e93f7a-f185-48aa-87e3-fa0218ae9f75")
 		(property "Reference" "U1"
-			(at 111.76 90.17 0)
+			(at 248.92 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2472,7 +2472,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 111.76 92.71 0)
+			(at 248.92 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2482,7 +2482,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 111.76 100.33 0)
+			(at 248.92 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2493,7 +2493,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
-			(at 111.76 100.33 0)
+			(at 248.92 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2504,7 +2504,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 111.76 100.33 0)
+			(at 248.92 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2515,28 +2515,28 @@
 			)
 		)
 		(pin "1"
-			(uuid "59a991de-8fc8-4dec-9af1-0c9eca372164")
+			(uuid "59a991de-8fc8-4dec-9af1-0c9eca372166")
 		)
 		(pin "5"
-			(uuid "8137545a-a99b-4947-8d00-847a20c62593")
+			(uuid "8137545a-a99b-4947-8d00-847a20c62595")
 		)
 		(pin "6"
-			(uuid "7f513d87-e2a9-4ed7-9d88-3a68e5d828af")
+			(uuid "7f513d87-e2a9-4ed7-9d88-3a68e5d828b1")
 		)
 		(pin "2"
-			(uuid "27bbc392-9298-4504-9ab9-c653b39d99ef")
+			(uuid "27bbc392-9298-4504-9ab9-c653b39d99f1")
 		)
 		(pin "8"
-			(uuid "72670bb9-c1e8-4ecb-9a26-5346f35bb225")
+			(uuid "72670bb9-c1e8-4ecb-9a26-5346f35bb227")
 		)
 		(pin "7"
-			(uuid "171acc72-20f1-48a9-9fb5-3b2ea349df2b")
+			(uuid "171acc72-20f1-48a9-9fb5-3b2ea349df2d")
 		)
 		(pin "4"
-			(uuid "125ac6b8-3992-443c-955e-652096bf9ade")
+			(uuid "125ac6b8-3992-443c-955e-652096bf9ae0")
 		)
 		(pin "3"
-			(uuid "75a8ccb6-6e3f-422f-b1e6-a8967fe4751f")
+			(uuid "75a8ccb6-6e3f-422f-b1e6-a8967fe47521")
 		)
 		(instances
 			(project "zahra-notch-filter"
