@@ -1054,10 +1054,80 @@
 		)
 	)
 	(junction
+		(at 153.67 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d8a264c-9968-4806-a36b-afc44933b514")
+	)
+	(junction
+		(at 167.64 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70b4a493-12d6-4eb6-aa80-f7f293b1b835")
+	)
+	(junction
+		(at 171.45 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d3d0282-cad9-49e4-85d8-a7d0c46c204f")
+	)
+	(junction
 		(at 62.23 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbca9c00-2e9b-404c-84b6-e9d846962009")
+	)
+	(junction
+		(at 76.2 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bcd3faa1-96d4-4e9b-a5b6-b4c8b0a8e839")
+	)
+	(junction
+		(at 80.01 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e64bbffd-5ccc-4ee4-945b-aa0a664ffdfd")
+	)
+	(wire
+		(pts
+			(xy 167.64 27.94) (xy 167.64 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05a942e9-4faf-41a0-b4a7-7d744af510a1")
+	)
+	(wire
+		(pts
+			(xy 167.64 27.94) (xy 198.12 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ddc52f9-514e-4f62-8425-bc23926bba61")
+	)
+	(wire
+		(pts
+			(xy 80.01 46.99) (xy 86.36 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1de4bd86-293b-4fa9-ab38-ea6d1b952376")
+	)
+	(wire
+		(pts
+			(xy 76.2 44.45) (xy 91.44 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2227f855-5ef2-41b4-87c6-f65032bc887d")
 	)
 	(wire
 		(pts
@@ -1081,6 +1151,116 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 36.83) (xy 182.88 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28d07bc8-5142-4a4e-a34e-b881aa0e8792")
+	)
+	(wire
+		(pts
+			(xy 86.36 39.37) (xy 91.44 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f58eeef-c849-45da-bf3f-4c2ca931bbf4")
+	)
+	(wire
+		(pts
+			(xy 198.12 27.94) (xy 198.12 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31ba7969-f2a3-40ae-84da-35f7b3b5864b")
+	)
+	(wire
+		(pts
+			(xy 167.64 41.91) (xy 182.88 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44832f1d-043f-49f9-8040-b43a6b930296")
+	)
+	(wire
+		(pts
+			(xy 171.45 52.07) (xy 171.45 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dcbf67d-2a3a-4a47-aaa4-c306fc980959")
+	)
+	(wire
+		(pts
+			(xy 86.36 46.99) (xy 86.36 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6371d11a-e1da-49f4-ac23-cad149a9b21f")
+	)
+	(wire
+		(pts
+			(xy 76.2 30.48) (xy 76.2 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a4896dd-6269-4b4e-bf41-8d98b0601ba5")
+	)
+	(wire
+		(pts
+			(xy 76.2 30.48) (xy 106.68 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b87df67-1212-4d4b-840a-e1ae64263850")
+	)
+	(wire
+		(pts
+			(xy 137.16 44.45) (xy 142.24 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f4fd4ad-2824-4741-bfd5-8b80cd2d3760")
+	)
+	(wire
+		(pts
+			(xy 153.67 27.94) (xy 157.48 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88627743-dfeb-4e9c-be2b-74d358fd64ac")
+	)
+	(wire
+		(pts
+			(xy 171.45 44.45) (xy 177.8 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "893a87cf-e40d-4343-bb5d-d921ec0550f1")
+	)
+	(wire
+		(pts
 			(xy 73.66 46.99) (xy 80.01 46.99)
 		)
 		(stroke
@@ -1088,6 +1268,16 @@
 			(type default)
 		)
 		(uuid "8c44999b-62f6-4091-a096-d44b93d91562")
+	)
+	(wire
+		(pts
+			(xy 153.67 44.45) (xy 153.67 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fd32e34-5c6f-4a84-8cb2-9bbddbf57a3c")
 	)
 	(wire
 		(pts
@@ -1101,13 +1291,23 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 46.99) (xy 62.23 33.02)
+			(xy 62.23 46.99) (xy 62.23 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b1c5bcd7-0abf-4ae1-8f29-8076c24fd5be")
+	)
+	(wire
+		(pts
+			(xy 177.8 44.45) (xy 177.8 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b603bec0-e675-4366-8093-fbe32ac1638e")
 	)
 	(wire
 		(pts
@@ -1121,7 +1321,27 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 33.02) (xy 66.04 33.02)
+			(xy 106.68 30.48) (xy 106.68 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c995b310-0aa8-406c-af51-11864278e6bf")
+	)
+	(wire
+		(pts
+			(xy 149.86 44.45) (xy 153.67 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d132498d-e0cf-4634-8425-1e2ea38c709c")
+	)
+	(wire
+		(pts
+			(xy 62.23 30.48) (xy 66.04 30.48)
 		)
 		(stroke
 			(width 0)
@@ -1129,91 +1349,49 @@
 		)
 		(uuid "d4bd8332-9724-486c-b3c8-d5bfc604caf6")
 	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 146.05 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "127c3051-a530-44a7-b513-9693e5acdaa5")
-		(property "Reference" "R4"
-			(at 148.59 60.9599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
+	(wire
+		(pts
+			(xy 167.64 27.94) (xy 165.1 27.94)
 		)
-		(property "Value" "R_US"
-			(at 148.59 63.4999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
+		(stroke
+			(width 0)
+			(type default)
 		)
-		(property "Footprint" ""
-			(at 147.066 62.484 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+		(uuid "d87e354f-0f4e-4267-9404-7a9c882ccf50")
+	)
+	(wire
+		(pts
+			(xy 76.2 30.48) (xy 73.66 30.48)
 		)
-		(property "Datasheet" ""
-			(at 146.05 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+		(stroke
+			(width 0)
+			(type default)
 		)
-		(property "Description" "Resistor, US symbol"
-			(at 146.05 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+		(uuid "df97dcc2-9924-4927-a717-142cd4c128ff")
+	)
+	(wire
+		(pts
+			(xy 165.1 44.45) (xy 171.45 44.45)
 		)
-		(pin "1"
-			(uuid "de441659-26cd-4ac1-9ce5-314d4514af4f")
+		(stroke
+			(width 0)
+			(type default)
 		)
-		(pin "2"
-			(uuid "612a107e-024b-4202-bab7-1e77168a259b")
+		(uuid "e33696de-8c02-4455-a8fc-d427499f7b1c")
+	)
+	(wire
+		(pts
+			(xy 153.67 44.45) (xy 157.48 44.45)
 		)
-		(instances
-			(project "zahra-notch-filter"
-				(path "/e582576c-6f0a-498c-85cd-18012f347549"
-					(reference "R4")
-					(unit 1)
-				)
-			)
+		(stroke
+			(width 0)
+			(type default)
 		)
+		(uuid "ec593071-e4ba-4de5-9845-0b3c0d185952")
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 69.85 33.02 90)
+		(at 69.85 30.48 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1224,6 +1402,16 @@
 		(fields_autoplaced yes)
 		(uuid "182d234a-a59e-485c-9dc9-e2a7b3d7799f")
 		(property "Reference" "R3"
+			(at 69.85 24.13 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "12"
 			(at 69.85 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1233,18 +1421,8 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
-			(at 69.85 29.21 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Footprint" ""
-			(at 70.104 32.004 90)
+			(at 70.104 29.464 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1255,7 +1433,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 33.02 0)
+			(at 69.85 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1266,7 +1444,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 69.85 33.02 0)
+			(at 69.85 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1370,168 +1548,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 157.48 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "28df9114-b86e-4604-ad14-966e5c065648")
-		(property "Reference" "R6"
-			(at 160.02 60.9599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 160.02 63.4999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 158.496 62.484 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 157.48 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 157.48 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ed5dee38-6545-4b71-8f23-26395d390e53")
-		)
-		(pin "2"
-			(uuid "1ab50340-c1d3-46e3-a4cf-365ef80871de")
-		)
-		(instances
-			(project "zahra-notch-filter"
-				(path "/e582576c-6f0a-498c-85cd-18012f347549"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 115.57 66.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2ab4e5b6-f30a-44b3-9928-2af064099028")
-		(property "Reference" "#PWR03"
-			(at 115.57 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 115.57 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 115.57 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 115.57 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 115.57 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1c840b1e-0f4f-40b0-8ae5-46ede6192947")
-		)
-		(instances
-			(project "zahra-notch-filter"
-				(path "/e582576c-6f0a-498c-85cd-18012f347549"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 237.49 156.21 0)
+		(at 99.06 41.91 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1541,7 +1559,7 @@
 		(dnp no)
 		(uuid "2c50a5fe-4237-488d-8cbe-ca9d93635589")
 		(property "Reference" "U1"
-			(at 240.792 148.59 0)
+			(at 99.822 35.052 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1552,7 +1570,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 239.522 150.876 0)
+			(at 98.552 37.338 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1563,7 +1581,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 237.49 156.21 0)
+			(at 99.06 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1574,7 +1592,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
-			(at 237.49 156.21 0)
+			(at 99.06 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1585,7 +1603,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 237.49 156.21 0)
+			(at 99.06 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1629,8 +1647,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 176.53 78.74 0)
+		(lib_id "Device:C")
+		(at 146.05 44.45 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1639,31 +1657,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "31660f50-acb3-4625-8d69-58f83ae6389b")
-		(property "Reference" "C4"
-			(at 180.34 76.5809 0)
+		(uuid "3a070de6-8d4e-4897-b1e5-6d5266c3567e")
+		(property "Reference" "C3"
+			(at 146.05 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at 180.34 79.1209 0)
+		(property "Value" "220 nF"
+			(at 146.05 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 177.4952 82.55 0)
+			(at 142.24 45.4152 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1674,7 +1690,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 78.74 0)
+			(at 146.05 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1684,8 +1700,8 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
-			(at 176.53 78.74 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 146.05 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1696,15 +1712,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "30fef2a1-59a8-4de5-b955-82956a921a09")
+			(uuid "26f84cd9-0966-462b-b25a-1b86c7d340e3")
 		)
 		(pin "2"
-			(uuid "1986f112-6c29-4f60-8e30-dfb7d79982a4")
+			(uuid "054bc6a5-e5bc-4337-855f-f3b6da364709")
 		)
 		(instances
 			(project "zahra-notch-filter"
 				(path "/e582576c-6f0a-498c-85cd-18012f347549"
-					(reference "C4")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -1712,7 +1728,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 100.33 29.21 0)
+		(at 96.52 34.29 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1723,7 +1739,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c5dbeef-bc10-4125-93f5-206c1e734338")
 		(property "Reference" "#PWR02"
-			(at 100.33 33.02 0)
+			(at 96.52 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1734,7 +1750,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 100.33 24.13 0)
+			(at 96.52 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1744,7 +1760,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 29.21 0)
+			(at 96.52 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1755,7 +1771,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 29.21 0)
+			(at 96.52 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1766,7 +1782,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 100.33 29.21 0)
+			(at 96.52 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1783,6 +1799,84 @@
 			(project "zahra-notch-filter"
 				(path "/e582576c-6f0a-498c-85cd-18012f347549"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 96.52 49.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3c805c63-ef70-4b6e-8626-1f36ced82b9f")
+		(property "Reference" "#PWR05"
+			(at 96.52 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 96.52 54.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 96.52 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "458726cc-2093-4fbb-9417-083a314cb37e")
+		)
+		(instances
+			(project "zahra-notch-filter"
+				(path "/e582576c-6f0a-498c-85cd-18012f347549"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -1810,7 +1904,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "22k"
 			(at 41.91 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1869,19 +1963,40 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 100.33 62.23 0)
-		(unit 1)
+		(lib_id "Amplifier_Operational:LM358")
+		(at 190.5 39.37 0)
+		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4e7c87ea-cf61-4cf3-86a1-9f76a7653618")
-		(property "Reference" "#PWR04"
-			(at 100.33 66.04 0)
+		(uuid "4894f4fa-e735-46c1-9f24-92ea3dab5a14")
+		(property "Reference" "U2"
+			(at 191.262 32.512 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LM358"
+			(at 189.992 34.798 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1891,18 +2006,8 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 100.33 57.15 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 100.33 62.23 0)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1912,19 +2017,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 100.33 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 100.33 62.23 0)
+		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1935,12 +2029,115 @@
 			)
 		)
 		(pin "1"
-			(uuid "007285a2-e711-4863-a084-c1685543a4fc")
+			(uuid "59a991de-8fc8-4dec-9af1-0c9eca372164")
+		)
+		(pin "5"
+			(uuid "8137545a-a99b-4947-8d00-847a20c62593")
+		)
+		(pin "6"
+			(uuid "7f513d87-e2a9-4ed7-9d88-3a68e5d828af")
+		)
+		(pin "2"
+			(uuid "27bbc392-9298-4504-9ab9-c653b39d99ef")
+		)
+		(pin "8"
+			(uuid "57e95a3a-0446-4fe6-bdb3-5880a44958b1")
+		)
+		(pin "7"
+			(uuid "171acc72-20f1-48a9-9fb5-3b2ea349df2b")
+		)
+		(pin "4"
+			(uuid "746b1165-a10a-41d2-9805-2baf86d6e619")
+		)
+		(pin "3"
+			(uuid "75a8ccb6-6e3f-422f-b1e6-a8967fe4751f")
 		)
 		(instances
 			(project "zahra-notch-filter"
 				(path "/e582576c-6f0a-498c-85cd-18012f347549"
-					(reference "#PWR04")
+					(reference "U2")
+					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 171.45 48.26 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5934244d-5708-4a7a-8958-867494c49f46")
+		(property "Reference" "R6"
+			(at 173.99 46.9899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "270k"
+			(at 173.99 49.5299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 170.434 48.006 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 171.45 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 171.45 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "07f9828d-832a-489c-b49e-c5a1c6e52a17")
+		)
+		(pin "2"
+			(uuid "7873497e-e417-4d04-b92b-49faf91a7abc")
+		)
+		(instances
+			(project "zahra-notch-filter"
+				(path "/e582576c-6f0a-498c-85cd-18012f347549"
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -1969,7 +2166,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "270k"
 			(at 82.55 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2029,6 +2226,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 133.35 44.45 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6d5bbd4c-23de-4929-91d1-14c0fb58d5c7")
+		(property "Reference" "R4"
+			(at 133.35 38.1 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22k"
+			(at 133.35 40.64 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.096 45.466 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 133.35 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d3fc6595-292c-4f45-b88d-f8b26b00153f")
+		)
+		(pin "2"
+			(uuid "d4217c15-e78a-4eea-a898-a113b043d469")
+		)
+		(instances
+			(project "zahra-notch-filter"
+				(path "/e582576c-6f0a-498c-85cd-18012f347549"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 171.45 54.61 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1c79baf-a999-4aa5-8ff3-62dae59c2000")
+		(property "Reference" "#PWR03"
+			(at 171.45 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 171.45 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 171.45 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 171.45 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 171.45 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a705a39f-2379-4306-950d-79b413b099d8")
+		)
+		(instances
+			(project "zahra-notch-filter"
+				(path "/e582576c-6f0a-498c-85cd-18012f347549"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 69.85 46.99 90)
 		(unit 1)
@@ -2050,7 +2405,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "10 uF"
 			(at 68.961 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2109,8 +2464,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 187.96 31.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b2d5568f-111e-438c-8364-46f719a363e1")
+		(property "Reference" "#PWR04"
+			(at 187.96 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 183.642 30.734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 187.96 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a5d86cbe-b4fe-474e-9b4c-91d7fe10ed14")
+		)
+		(instances
+			(project "zahra-notch-filter"
+				(path "/e582576c-6f0a-498c-85cd-18012f347549"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 237.49 156.21 0)
+		(at 99.06 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2120,7 +2552,7 @@
 		(dnp no)
 		(uuid "ba796f1a-6542-4fd8-8851-18c5be79d6fc")
 		(property "Reference" "U1"
-			(at 229.108 144.526 0)
+			(at 102.616 44.958 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2130,7 +2562,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 229.362 147.066 0)
+			(at 102.87 47.498 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2140,7 +2572,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 237.49 156.21 0)
+			(at 99.06 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2151,7 +2583,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
-			(at 237.49 156.21 0)
+			(at 99.06 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2162,7 +2594,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 237.49 156.21 0)
+			(at 99.06 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2206,8 +2638,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 161.29 82.55 0)
+		(lib_id "Device:R_US")
+		(at 161.29 27.94 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2216,31 +2648,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c071b04a-4add-4728-8b2e-33cf4de6ff63")
-		(property "Reference" "C3"
-			(at 165.1 81.2799 0)
+		(uuid "c3046c6e-554f-401f-ae3a-84d32d3a2b00")
+		(property "Reference" "R5"
+			(at 161.29 21.59 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 165.1 83.8199 0)
+		(property "Value" "12"
+			(at 161.29 24.13 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 162.2552 86.36 0)
+			(at 161.544 26.924 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2251,7 +2681,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 82.55 0)
+			(at 161.29 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2261,8 +2691,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 161.29 82.55 0)
+		(property "Description" "Resistor, US symbol"
+			(at 161.29 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2273,15 +2703,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "f091269f-da9e-4c1b-81b0-52a765bdf4a1")
+			(uuid "6230280a-7e39-4f91-95d9-f16df382cb0a")
 		)
 		(pin "2"
-			(uuid "9aa7e803-8878-43c3-8370-5e75a0fa0431")
+			(uuid "fbf04291-d20c-43c8-8c68-c07b2809c404")
 		)
 		(instances
 			(project "zahra-notch-filter"
 				(path "/e582576c-6f0a-498c-85cd-18012f347549"
-					(reference "C3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -2309,7 +2739,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "220 nF"
 			(at 54.61 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2368,8 +2798,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 147.32 80.01 0)
+		(lib_id "Device:C_Polarized")
+		(at 161.29 44.45 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2378,31 +2808,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e305567f-5147-4660-bb41-bf285949fdcc")
-		(property "Reference" "R5"
-			(at 149.86 78.7399 0)
+		(uuid "cbfe862e-82ad-4721-a9e0-f360e431b50d")
+		(property "Reference" "C4"
+			(at 160.401 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "R_US"
-			(at 149.86 81.2799 0)
+		(property "Value" "10 uF"
+			(at 160.401 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 148.336 80.264 90)
+			(at 165.1 43.4848 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2413,7 +2841,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 80.01 0)
+			(at 161.29 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2423,8 +2851,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
-			(at 147.32 80.01 0)
+		(property "Description" "Polarized capacitor"
+			(at 161.29 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2435,15 +2863,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "9c9397af-c527-4f86-8523-dfcd589ee077")
+			(uuid "a5d0567e-602a-42a3-8f23-2fda9b1abe2c")
 		)
 		(pin "2"
-			(uuid "bcb3601f-fc15-465a-8d8c-3d0b3290462b")
+			(uuid "961a088e-dd64-433f-b3ae-931fadb2a74d")
 		)
 		(instances
 			(project "zahra-notch-filter"
 				(path "/e582576c-6f0a-498c-85cd-18012f347549"
-					(reference "R5")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -2451,7 +2879,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 248.92 31.75 0)
+		(at 190.5 39.37 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2459,10 +2887,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f9e93f7a-f185-48aa-87e3-fa0218ae9f75")
 		(property "Reference" "U1"
-			(at 248.92 21.59 0)
+			(at 194.056 43.688 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2472,7 +2899,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 248.92 24.13 0)
+			(at 194.056 46.228 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2482,7 +2909,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 248.92 31.75 0)
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2493,7 +2920,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
-			(at 248.92 31.75 0)
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2504,7 +2931,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 248.92 31.75 0)
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2543,6 +2970,84 @@
 				(path "/e582576c-6f0a-498c-85cd-18012f347549"
 					(reference "U1")
 					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 187.96 46.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fa7eb7b9-6a69-48ad-b14c-2945dd7255ea")
+		(property "Reference" "#PWR06"
+			(at 187.96 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 187.96 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 187.96 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ba68a726-d00c-4608-9975-20e2536246ff")
+		)
+		(instances
+			(project "zahra-notch-filter"
+				(path "/e582576c-6f0a-498c-85cd-18012f347549"
+					(reference "#PWR06")
+					(unit 1)
 				)
 			)
 		)
