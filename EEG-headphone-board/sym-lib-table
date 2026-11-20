@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Eclectronics") (type "KiCad") (uri "${KIPRJMOD}/Eclectronics.kicad_sym") (options "") (descr ""))
+	(lib (name "EEG_BMS") (type "KiCad") (uri "C:/Users/traiti/EEG-headphone/libs/symbols/EEG_BMS.kicad_sym") (options "") (descr ""))
+)
