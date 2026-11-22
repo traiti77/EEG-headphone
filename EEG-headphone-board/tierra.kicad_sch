@@ -3666,145 +3666,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+2V5"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "+2V5"
-				(at 0 3.556 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+2V5\""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "+2V5_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+2V5_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+3V3"
 			(power global)
 			(pin_numbers
@@ -4078,121 +3939,6 @@
 								(size 1.27 1.27)
 							)
 						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "power:-2V5"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "-2V5"
-				(at 0 3.556 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"-2V5\""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "-2V5_0_0"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "-2V5_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 1.27) (xy 0.762 1.27) (xy 0 2.54) (xy -0.762 1.27) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
 					)
 				)
 			)
@@ -4567,6 +4313,12 @@
 		(uuid "8507b1f5-8b59-47dc-9844-dbd98f9c46d9")
 	)
 	(junction
+		(at 109.22 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8bdcf7f5-51b9-4c0c-b653-1e08b3710432")
+	)
+	(junction
 		(at 217.17 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4613,12 +4365,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc9bc63e-a9c6-46ae-b497-f25e3ae7e838")
-	)
-	(junction
-		(at 109.22 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cdfc19c6-81d4-476c-a6b5-ba5333af96ec")
 	)
 	(junction
 		(at 87.63 158.75)
@@ -4872,16 +4618,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 158.75) (xy 30.48 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c43ed00-afdc-4c39-91f3-2f7e5f7a0b76")
-	)
-	(wire
-		(pts
 			(xy 196.85 110.49) (xy 196.85 115.57)
 		)
 		(stroke
@@ -5022,16 +4758,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 160.02) (xy 40.64 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55a9ccbb-363d-453d-9cf1-779110078359")
-	)
-	(wire
-		(pts
 			(xy 224.79 100.33) (xy 217.17 100.33)
 		)
 		(stroke
@@ -5069,16 +4795,6 @@
 			(type default)
 		)
 		(uuid "5b9a0e03-fb1f-44bf-b7bb-b27af8cb513b")
-	)
-	(wire
-		(pts
-			(xy 120.65 99.06) (xy 109.22 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ee5657b-8f48-42cb-bcee-f88da79fc1e8")
 	)
 	(wire
 		(pts
@@ -5342,6 +5058,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 160.02) (xy 40.64 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cee0aba-519d-4162-8c51-817ac8bfbfcd")
+	)
+	(wire
+		(pts
 			(xy 48.26 26.67) (xy 48.26 27.94)
 		)
 		(stroke
@@ -5432,13 +5158,13 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 95.25) (xy 120.65 99.06)
+			(xy 109.22 99.06) (xy 116.84 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a176c59e-2d57-4774-a0d6-c9fef4fb052e")
+		(uuid "a17c964d-2560-4d9d-b752-4d9b5f60e551")
 	)
 	(wire
 		(pts
@@ -5549,16 +5275,6 @@
 			(type default)
 		)
 		(uuid "b4cacb61-cf25-44ac-bd16-5d493324c588")
-	)
-	(wire
-		(pts
-			(xy 224.79 97.79) (xy 224.79 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b58043c5-eb8e-49b3-83ef-7c6c3f8030b1")
 	)
 	(wire
 		(pts
@@ -5852,16 +5568,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 99.06) (xy 140.97 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9e1058e-7174-4fbc-8c22-bf84c9f403e1")
-	)
-	(wire
-		(pts
 			(xy 114.3 35.56) (xy 114.3 38.1)
 		)
 		(stroke
@@ -6050,6 +5756,17 @@
 		)
 		(uuid "db168e23-f699-4de8-9c29-53c3f09414d2")
 	)
+	(hierarchical_label "-2V5"
+		(shape input)
+		(at 116.84 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "040b5ede-7be4-403a-a68f-c95758b55ade")
+	)
 	(hierarchical_label "USB_D-"
 		(shape input)
 		(at 62.23 35.56 0)
@@ -6061,6 +5778,50 @@
 		)
 		(uuid "04b1efaf-fe2d-4191-b97a-a5dfd1fbd775")
 	)
+	(hierarchical_label "+2V5"
+		(shape input)
+		(at 224.79 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19353bed-81de-49d5-9b0e-ba2346e10833")
+	)
+	(hierarchical_label "3V3"
+		(shape input)
+		(at 140.97 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1de47cdd-cdbf-4025-a56b-02c4abac0038")
+	)
+	(hierarchical_label "3V3"
+		(shape input)
+		(at 274.32 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "700538c5-8398-4d22-a5cd-5aa78033b91b")
+	)
+	(hierarchical_label "3V3"
+		(shape input)
+		(at 29.21 160.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fbdb9f9d-40b3-4485-8a97-8c01a5858e83")
+	)
 	(hierarchical_label "USB_D+"
 		(shape input)
 		(at 62.23 40.64 0)
@@ -6071,84 +5832,6 @@
 			(justify left)
 		)
 		(uuid "febf6fb1-02cf-4e4f-9fe0-bc530c4337ba")
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 140.97 99.06 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "05608f4e-a13e-44c6-baf6-70beae8ff35e")
-		(property "Reference" "#PWR022"
-			(at 140.97 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 140.97 93.98 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 140.97 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "017c8e24-bbd5-4a81-9806-f679dc88681c")
-		)
-		(instances
-			(project "EEG-headphone-board"
-				(path "/1b8c473c-2eb5-4493-b028-877354026ab8/8e17a083-1f97-4ad8-82c8-2fa044debb36"
-					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -6809,84 +6492,6 @@
 			(project "EEG-headphone-board"
 				(path "/1b8c473c-2eb5-4493-b028-877354026ab8/8e17a083-1f97-4ad8-82c8-2fa044debb36"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:-2V5")
-		(at 120.65 95.25 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2cc42433-0e5e-4539-ac8b-0e83ff7bd10f")
-		(property "Reference" "#PWR020"
-			(at 120.65 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "-2V5"
-			(at 120.65 90.17 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 120.65 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 120.65 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"-2V5\""
-			(at 120.65 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "aff8e1e6-3d7c-447e-867d-9154612f0055")
-		)
-		(instances
-			(project "EEG-headphone-board"
-				(path "/1b8c473c-2eb5-4493-b028-877354026ab8/8e17a083-1f97-4ad8-82c8-2fa044debb36"
-					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -7606,84 +7211,6 @@
 			(project "EEG-headphone-board"
 				(path "/1b8c473c-2eb5-4493-b028-877354026ab8/8e17a083-1f97-4ad8-82c8-2fa044debb36"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 30.48 158.75 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4d15174f-0533-4a18-ba9a-62210d6b820b")
-		(property "Reference" "#PWR021"
-			(at 30.48 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 30.48 153.67 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 30.48 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 30.48 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "017c8e24-bbd5-4a81-9806-f679dc88681d")
-		)
-		(instances
-			(project "EEG-headphone-board"
-				(path "/1b8c473c-2eb5-4493-b028-877354026ab8/8e17a083-1f97-4ad8-82c8-2fa044debb36"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -10207,85 +9734,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 274.32 30.48 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c838e6f6-eb31-42fd-b341-81485b4c0190")
-		(property "Reference" "#PWR015"
-			(at 270.51 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 278.13 30.4799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 274.32 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 274.32 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 274.32 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "78f830cb-ba10-4cb7-bec5-46278a1a974f")
-		)
-		(instances
-			(project "EEG-headphone-board"
-				(path "/1b8c473c-2eb5-4493-b028-877354026ab8/8e17a083-1f97-4ad8-82c8-2fa044debb36"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 266.7 34.29 0)
 		(unit 1)
@@ -10678,84 +10126,6 @@
 			(project "EEG-headphone-board"
 				(path "/1b8c473c-2eb5-4493-b028-877354026ab8/8e17a083-1f97-4ad8-82c8-2fa044debb36"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+2V5")
-		(at 224.79 97.79 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e974d1cd-d764-4802-b324-26c40f41d973")
-		(property "Reference" "#PWR019"
-			(at 224.79 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+2V5"
-			(at 224.79 92.71 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 224.79 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 224.79 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "26f3c954-968d-4733-9263-59d25b541cb8")
-		)
-		(instances
-			(project "EEG-headphone-board"
-				(path "/1b8c473c-2eb5-4493-b028-877354026ab8/8e17a083-1f97-4ad8-82c8-2fa044debb36"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
